@@ -1,4 +1,4 @@
-# playing-with-git
+# Playing with git
 
 - How to install this on your machine
 - Outline your approach
