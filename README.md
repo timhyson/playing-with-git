@@ -1,3 +1,5 @@
+# README
+
 # Playing with git
 
 - How to install this on your machine
